@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 8b910a1acd7b93b41b17207b9efe4bcd
+timeCreated: 1470641942
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rocks_0
+    21300002: Rocks_1
+    21300004: Rocks_2
+    21300006: Rocks_3
+    21300008: Rocks_4
+    21300010: Rocks_5
+    21300012: Rocks_6
+    21300014: Rocks_7
+    21300016: Rocks_8
+    21300018: Rocks_9
+    21300020: Rocks_10
+    21300022: Rocks_11
+    21300024: Rocks_12
+    21300026: Rocks_13
+    21300028: Rocks_14
+    21300030: Rocks_15
+    21300032: Rocks_16
+    21300034: Rocks_17
+    21300036: Rocks_18
+    21300038: Rocks_19
+    21300040: Rocks_20
+    21300042: Rocks_21
+    21300044: Rocks_22
+    21300046: Rocks_23
+    21300048: Rocks_24
+    21300050: Rocks_25
+    21300052: Rocks_26
+    21300054: Rocks_27
+    21300056: Rocks_28
+    21300058: Rocks_29
+    21300060: Rocks_30
+    21300062: Rocks_31
+    21300064: Rocks_32
+    21300066: Rocks_33
+    21300068: Rocks_34
+    21300070: Rocks_35
+    21300072: Rocks_36
+    21300074: Rocks_37
+    21300076: Rocks_38
+    21300078: Rocks_39
+    21300080: Rocks_40
+    21300082: Rocks_41
+    21300084: Rocks_42
+    21300086: Rocks_43
+    21300088: Rocks_44
+    21300090: Rocks_45
+    21300092: Rocks_46
+    21300094: Rocks_47
+    21300096: Rocks_48
+    21300098: Rocks_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Rocks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 25.899994}
+        - {x: -22.5, y: 20.899994}
+        - {x: -22.5, y: -17.100006}
+        - {x: -13.5, y: -24.100006}
+        - {x: 17.5, y: -24.100006}
+        - {x: 22.5, y: -23.100006}
+        - {x: 22.5, y: 20.899994}
+        - {x: 15.5, y: 25.899994}
+    - name: Rocks_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 25.899994}
+        - {x: -22.5, y: 18.899994}
+        - {x: -22.5, y: -14.100006}
+        - {x: -13.5, y: -22.100006}
+        - {x: -6.5, y: -24.100006}
+        - {x: 13.5, y: -24.100006}
+        - {x: 22.5, y: -18.100006}
+        - {x: 22.5, y: 17.899994}
+        - {x: 19.5, y: 25.899994}
+    - name: Rocks_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 25.899994}
+        - {x: -22.5, y: 15.899994}
+        - {x: -22.5, y: -20.100006}
+        - {x: -9.5, y: -24.100006}
+        - {x: 15.5, y: -24.100006}
+        - {x: 22.5, y: -16.100006}
+        - {x: 22.5, y: 16.899994}
+        - {x: 12.5, y: 25.899994}
+    - name: Rocks_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 25.899994}
+        - {x: -22.5, y: 18.899994}
+        - {x: -22.5, y: -17.100006}
+        - {x: -12.5, y: -24.100006}
+        - {x: 14.5, y: -24.100006}
+        - {x: 22.5, y: -18.100006}
+        - {x: 22.5, y: 15.899994}
+        - {x: 19.5, y: 25.899994}
+    - name: Rocks_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 25.899994}
+        - {x: -8.5, y: 25.899994}
+        - {x: -17.5, y: 24.899994}
+        - {x: -22.5, y: 15.899994}
+        - {x: -22.5, y: -21.100006}
+        - {x: -16.5, y: -24.100006}
+        - {x: 17.5, y: -24.100006}
+        - {x: 22.5, y: -17.100006}
+        - {x: 22.5, y: 12.899994}
+        - {x: 14.5, y: 22.899994}
+    - name: Rocks_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 25.899994}
+        - {x: -22.5, y: 14.899994}
+        - {x: -22.5, y: -12.100006}
+        - {x: -15.5, y: -24.100006}
+        - {x: 19.5, y: -24.100006}
+        - {x: 22.5, y: -23.100006}
+        - {x: 22.5, y: 25.899994}
+    - name: Rocks_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 25.899994}
+        - {x: -22.5, y: 20.899994}
+        - {x: -22.5, y: -18.100006}
+        - {x: -13.5, y: -24.100006}
+        - {x: 16.5, y: -24.100006}
+        - {x: 22.5, y: -17.100006}
+        - {x: 22.5, y: 24.899994}
+        - {x: 16.5, y: 25.899994}
+    - name: Rocks_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 25.899994}
+        - {x: -15.5, y: 25.899994}
+        - {x: -22.5, y: 18.899994}
+        - {x: -22.5, y: -19.100006}
+        - {x: -11.5, y: -24.100006}
+        - {x: 20.5, y: -24.100006}
+        - {x: 22.5, y: -17.100006}
+        - {x: 22.5, y: 22.899994}
+    - name: Rocks_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 25.899994}
+        - {x: -22.5, y: 13.899994}
+        - {x: -22.5, y: -13.100006}
+        - {x: -13.5, y: -24.100006}
+        - {x: 16.5, y: -24.100006}
+        - {x: 22.5, y: -21.100006}
+        - {x: 22.5, y: 19.899994}
+        - {x: 12.5, y: 25.899994}
+    - name: Rocks_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 202.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 25.899994}
+        - {x: -12.5, y: 25.899994}
+        - {x: -22.5, y: 16.899994}
+        - {x: -22.5, y: -15.100006}
+        - {x: -16.5, y: -24.100006}
+        - {x: 13.5, y: -24.100006}
+        - {x: 22.5, y: -21.100006}
+        - {x: 22.5, y: 14.899994}
+        - {x: 13.5, y: 23.899994}
+    - name: Rocks_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24.899994}
+        - {x: -22.5, y: 22.899994}
+        - {x: -22.5, y: -16.100006}
+        - {x: -17.5, y: -23.100006}
+        - {x: -9.5, y: -25.100006}
+        - {x: 11.5, y: -25.100006}
+        - {x: 22.5, y: -15.100006}
+        - {x: 22.5, y: 14.899994}
+        - {x: 14.5, y: 24.899994}
+    - name: Rocks_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 24.899994}
+        - {x: -22.5, y: 19.899994}
+        - {x: -22.5, y: -15.100006}
+        - {x: -19.5, y: -25.100006}
+        - {x: 11.5, y: -25.100006}
+        - {x: 22.5, y: -20.100006}
+        - {x: 22.5, y: 24.899994}
+    - name: Rocks_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 24.899994}
+        - {x: -22.5, y: 19.899994}
+        - {x: -22.5, y: -16.100006}
+        - {x: -11.5, y: -25.100006}
+        - {x: 10.5, y: -25.100006}
+        - {x: 22.5, y: -14.100006}
+        - {x: 22.5, y: 17.899994}
+        - {x: 17.5, y: 24.899994}
+    - name: Rocks_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24.899994}
+        - {x: -22.5, y: 17.899994}
+        - {x: -22.5, y: -16.100006}
+        - {x: -20.5, y: -25.100006}
+        - {x: 19.5, y: -25.100006}
+        - {x: 22.5, y: -21.100006}
+        - {x: 22.5, y: 24.899994}
+    - name: Rocks_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 24.899994}
+        - {x: -22.5, y: 15.899994}
+        - {x: -22.5, y: -15.100006}
+        - {x: -13.5, y: -25.100006}
+        - {x: 16.5, y: -25.100006}
+        - {x: 22.5, y: -20.100006}
+        - {x: 22.5, y: 15.899994}
+        - {x: 18.5, y: 24.899994}
+    - name: Rocks_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 24.899994}
+        - {x: -22.5, y: 15.899994}
+        - {x: -22.5, y: -20.100006}
+        - {x: -21.5, y: -25.100006}
+        - {x: 14.5, y: -25.100006}
+        - {x: 22.5, y: -22.100006}
+        - {x: 22.5, y: 24.899994}
+    - name: Rocks_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.899994}
+        - {x: -22.5, y: 18.899994}
+        - {x: -22.5, y: -17.100006}
+        - {x: -12.5, y: -25.100006}
+        - {x: 20.5, y: -25.100006}
+        - {x: 22.5, y: -18.100006}
+        - {x: 22.5, y: 23.899994}
+        - {x: 21.5, y: 24.899994}
+    - name: Rocks_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24.899994}
+        - {x: -22.5, y: 23.899994}
+        - {x: -22.5, y: -19.100006}
+        - {x: -20.5, y: -25.100006}
+        - {x: 11.5, y: -25.100006}
+        - {x: 22.5, y: -16.100006}
+        - {x: 22.5, y: 16.899994}
+        - {x: 15.5, y: 24.899994}
+    - name: Rocks_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.899994}
+        - {x: -22.5, y: 13.899994}
+        - {x: -22.5, y: -22.100006}
+        - {x: -13.5, y: -25.100006}
+        - {x: 19.5, y: -25.100006}
+        - {x: 22.5, y: -21.100006}
+        - {x: 22.5, y: 17.899994}
+        - {x: 20.5, y: 24.899994}
+    - name: Rocks_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 152.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 24.899994}
+        - {x: -22.5, y: 11.899994}
+        - {x: -22.5, y: -21.100006}
+        - {x: -20.5, y: -25.100006}
+        - {x: 16.5, y: -25.100006}
+        - {x: 22.5, y: -15.100006}
+        - {x: 22.5, y: 16.899994}
+        - {x: 11.5, y: 24.899994}
+    - name: Rocks_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.900002}
+        - {x: -22.5, y: 18.900002}
+        - {x: -22.5, y: -14.099998}
+        - {x: -16.5, y: -23.099998}
+        - {x: -9.5, y: -25.099998}
+        - {x: 12.5, y: -25.099998}
+        - {x: 22.5, y: -16.099998}
+        - {x: 22.5, y: 15.900002}
+        - {x: 16.5, y: 23.900002}
+    - name: Rocks_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.900002}
+        - {x: -22.5, y: 16.900002}
+        - {x: -22.5, y: -17.099998}
+        - {x: -10.5, y: -25.099998}
+        - {x: 20.5, y: -25.099998}
+        - {x: 22.5, y: -20.099998}
+        - {x: 22.5, y: 19.900002}
+        - {x: 13.5, y: 23.900002}
+    - name: Rocks_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.900002}
+        - {x: -22.5, y: 19.900002}
+        - {x: -22.5, y: -17.099998}
+        - {x: -9.5, y: -25.099998}
+        - {x: 12.5, y: -25.099998}
+        - {x: 22.5, y: -17.099998}
+        - {x: 22.5, y: 17.900002}
+        - {x: 18.5, y: 23.900002}
+    - name: Rocks_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 23.900002}
+        - {x: -22.5, y: 17.900002}
+        - {x: -22.5, y: -25.099998}
+        - {x: 13.5, y: -25.099998}
+        - {x: 22.5, y: -20.099998}
+        - {x: 22.5, y: 23.900002}
+    - name: Rocks_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23.900002}
+        - {x: -22.5, y: 16.900002}
+        - {x: -22.5, y: -16.099998}
+        - {x: -19.5, y: -25.099998}
+        - {x: 20.5, y: -25.099998}
+        - {x: 22.5, y: -18.099998}
+        - {x: 22.5, y: 18.900002}
+        - {x: 17.5, y: 23.900002}
+    - name: Rocks_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 23.900002}
+        - {x: -21.5, y: 18.900002}
+        - {x: -22.5, y: 15.900002}
+        - {x: -22.5, y: -20.099998}
+        - {x: -19.5, y: -25.099998}
+        - {x: 20.5, y: -25.099998}
+        - {x: 22.5, y: -18.099998}
+        - {x: 22.5, y: 16.900002}
+        - {x: 12.5, y: 23.900002}
+    - name: Rocks_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 23.900002}
+        - {x: -22.5, y: 18.900002}
+        - {x: -22.5, y: -25.099998}
+        - {x: 18.5, y: -25.099998}
+        - {x: 22.5, y: -15.099998}
+        - {x: 22.5, y: 16.900002}
+        - {x: 17.5, y: 23.900002}
+    - name: Rocks_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.900002}
+        - {x: -22.5, y: 22.900002}
+        - {x: -22.5, y: -25.099998}
+        - {x: 19.5, y: -25.099998}
+        - {x: 22.5, y: -17.099998}
+        - {x: 22.5, y: 19.900002}
+        - {x: 15.5, y: 23.900002}
+    - name: Rocks_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 24.900002}
+        - {x: -22.5, y: -22.099998}
+        - {x: -12.5, y: -25.099998}
+        - {x: 9.5, y: -25.099998}
+        - {x: 22.5, y: -18.099998}
+        - {x: 22.5, y: 15.900002}
+        - {x: 19.5, y: 24.900002}
+    - name: Rocks_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 102.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.900002}
+        - {x: -22.5, y: 20.900002}
+        - {x: -22.5, y: -18.099998}
+        - {x: -19.5, y: -25.099998}
+        - {x: 14.5, y: -25.099998}
+        - {x: 22.5, y: -16.099998}
+        - {x: 22.5, y: 14.900002}
+        - {x: 19.5, y: 23.900002}
+    - name: Rocks_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.900002}
+        - {x: -22.5, y: -25.099998}
+        - {x: 17.5, y: -25.099998}
+        - {x: 22.5, y: -16.099998}
+        - {x: 22.5, y: 14.900002}
+        - {x: 19.5, y: 23.900002}
+    - name: Rocks_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 19.900002}
+        - {x: 12.5, y: 23.900002}
+        - {x: -18.5, y: 23.900002}
+        - {x: -22.5, y: 17.900002}
+        - {x: -22.5, y: -19.099998}
+        - {x: -12.5, y: -25.099998}
+        - {x: 10.5, y: -25.099998}
+        - {x: 15.5, y: -22.099998}
+        - {x: 20.5, y: -16.099998}
+        - {x: 22.5, y: -13.099998}
+    - name: Rocks_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.900002}
+        - {x: -22.5, y: 11.900002}
+        - {x: -22.5, y: -18.099998}
+        - {x: -13.5, y: -25.099998}
+        - {x: 19.5, y: -25.099998}
+        - {x: 22.5, y: -15.099998}
+        - {x: 22.5, y: 15.900002}
+        - {x: 14.5, y: 23.900002}
+    - name: Rocks_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.900002}
+        - {x: -22.5, y: 15.900002}
+        - {x: -22.5, y: -20.099998}
+        - {x: -15.5, y: -25.099998}
+        - {x: 13.5, y: -25.099998}
+        - {x: 22.5, y: -18.099998}
+        - {x: 22.5, y: 12.900002}
+        - {x: 11.5, y: 23.900002}
+    - name: Rocks_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.900002}
+        - {x: -22.5, y: 12.900002}
+        - {x: -22.5, y: -21.099998}
+        - {x: -18.5, y: -25.099998}
+        - {x: 14.5, y: -25.099998}
+        - {x: 22.5, y: -21.099998}
+        - {x: 22.5, y: 13.900002}
+        - {x: 11.5, y: 23.900002}
+    - name: Rocks_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.900002}
+        - {x: -22.5, y: -18.099998}
+        - {x: -12.5, y: -25.099998}
+        - {x: 21.5, y: -25.099998}
+        - {x: 22.5, y: -20.099998}
+        - {x: 22.5, y: 19.900002}
+        - {x: 19.5, y: 23.900002}
+    - name: Rocks_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23.900002}
+        - {x: -22.5, y: 17.900002}
+        - {x: -22.5, y: -24.099998}
+        - {x: -19.5, y: -25.099998}
+        - {x: 20.5, y: -25.099998}
+        - {x: 22.5, y: -22.099998}
+        - {x: 22.5, y: 18.900002}
+        - {x: 17.5, y: 23.900002}
+    - name: Rocks_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23.900002}
+        - {x: -22.5, y: 19.900002}
+        - {x: -22.5, y: -21.099998}
+        - {x: -15.5, y: -25.099998}
+        - {x: 13.5, y: -25.099998}
+        - {x: 22.5, y: -16.099998}
+        - {x: 22.5, y: 19.900002}
+        - {x: 14.5, y: 23.900002}
+    - name: Rocks_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23.900002}
+        - {x: -22.5, y: 20.900002}
+        - {x: -22.5, y: -15.099998}
+        - {x: -11.5, y: -25.099998}
+        - {x: 20.5, y: -25.099998}
+        - {x: 22.5, y: -19.099998}
+        - {x: 22.5, y: 21.900002}
+        - {x: 20.5, y: 23.900002}
+    - name: Rocks_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 52.4
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 23.900002}
+        - {x: -22.5, y: -23.099998}
+        - {x: -20.5, y: -25.099998}
+        - {x: 15.5, y: -25.099998}
+        - {x: 22.5, y: -22.099998}
+        - {x: 22.5, y: 12.900002}
+        - {x: 13.5, y: 23.900002}
+    - name: Rocks_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 22.900002}
+        - {x: -22.5, y: 15.900002}
+        - {x: -22.5, y: -23.099998}
+        - {x: -19.5, y: -25.099998}
+        - {x: 13.5, y: -25.099998}
+        - {x: 22.5, y: -17.099998}
+        - {x: 22.5, y: 12.900002}
+        - {x: 12.5, y: 22.900002}
+    - name: Rocks_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22.900002}
+        - {x: -22.5, y: 21.900002}
+        - {x: -22.5, y: -17.099998}
+        - {x: -20.5, y: -25.099998}
+        - {x: 14.5, y: -25.099998}
+        - {x: 22.5, y: -16.099998}
+        - {x: 22.5, y: 17.900002}
+        - {x: 14.5, y: 22.900002}
+    - name: Rocks_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22.900002}
+        - {x: -22.5, y: 14.900002}
+        - {x: -22.5, y: -21.099998}
+        - {x: -13.5, y: -25.099998}
+        - {x: 19.5, y: -25.099998}
+        - {x: 22.5, y: -20.099998}
+        - {x: 22.5, y: 22.900002}
+    - name: Rocks_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22.900002}
+        - {x: -22.5, y: 17.900002}
+        - {x: -22.5, y: -20.099998}
+        - {x: -21.5, y: -25.099998}
+        - {x: 20.5, y: -25.099998}
+        - {x: 22.5, y: -19.099998}
+        - {x: 22.5, y: 18.900002}
+        - {x: 18.5, y: 22.900002}
+    - name: Rocks_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22.900002}
+        - {x: -22.5, y: 10.900002}
+        - {x: -22.5, y: -19.099998}
+        - {x: -14.5, y: -25.099998}
+        - {x: 18.5, y: -25.099998}
+        - {x: 22.5, y: -20.099998}
+        - {x: 22.5, y: 15.900002}
+        - {x: 21.5, y: 22.900002}
+    - name: Rocks_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 22.900002}
+        - {x: -14.5, y: 20.900002}
+        - {x: -22.5, y: 10.900002}
+        - {x: -22.5, y: -18.099998}
+        - {x: -11.5, y: -25.099998}
+        - {x: 13.5, y: -25.099998}
+        - {x: 22.5, y: -19.099998}
+        - {x: 22.5, y: 16.900002}
+        - {x: 20.5, y: 22.900002}
+    - name: Rocks_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 22.900002}
+        - {x: -22.5, y: 14.900002}
+        - {x: -22.5, y: -18.099998}
+        - {x: -11.5, y: -25.099998}
+        - {x: 15.5, y: -25.099998}
+        - {x: 22.5, y: -17.099998}
+        - {x: 22.5, y: 17.900002}
+        - {x: 12.5, y: 22.900002}
+    - name: Rocks_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 22.900002}
+        - {x: -22.5, y: 10.900002}
+        - {x: -22.5, y: -18.099998}
+        - {x: -14.5, y: -25.099998}
+        - {x: 18.5, y: -25.099998}
+        - {x: 22.5, y: -16.099998}
+        - {x: 22.5, y: 13.900002}
+        - {x: 11.5, y: 22.900002}
+    - name: Rocks_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -19.099998}
+        - {x: -18.5, y: -25.099998}
+        - {x: 20.5, y: -25.099998}
+        - {x: 22.5, y: -24.099998}
+        - {x: 22.5, y: 22.900002}
+        - {x: -17.5, y: 22.900002}
+        - {x: -22.5, y: 12.900002}
+    - name: Rocks_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2.4000015
+        width: 45
+        height: 50.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 22.900002}
+        - {x: -22.5, y: 12.900002}
+        - {x: -22.5, y: -25.099998}
+        - {x: 17.5, y: -25.099998}
+        - {x: 22.5, y: -23.099998}
+        - {x: 22.5, y: 13.900002}
+        - {x: 11.5, y: 22.900002}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
